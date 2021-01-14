@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "821215454043",
+    "project_id": "analytics-2f5af",
+    "storage_bucket": "analytics-2f5af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821215454043:android:e07c3f3215a3d5240d307e",
+        "android_client_info": {
+          "package_name": "com.googleanalytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821215454043-358gcc3bgm3ivvmdgcjs3v85occspstd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcOy7zNzOf46vJojHVTRRwNge-W0Zge5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821215454043-358gcc3bgm3ivvmdgcjs3v85occspstd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821215454043-n6g0cjl4qrjmrb8ag5414gevb6bicl3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.GoogleAnalytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
